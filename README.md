@@ -1,4 +1,4 @@
-# ml-pipeline
+# ML Pipeline
 
 ## Git commands
 
