@@ -27,3 +27,9 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+
+```
+# to push code in github 
+# git push -u orign master/main
+
+```
